@@ -37,7 +37,7 @@ python3 creer_lancer_scan.py
 
 Les scripts se connectent à GVM via le socket Unix local (/run/gvmd/gvmd.sock), ils doivent donc être exécutés directement sur la machine hébergeant l'installation GVM.
 
-Résultats obtenus
+Résultats obtenu
 
 Le scan a identifié 632 résultats bruts, dont 68 jugés pertinents après filtrage par qualité de détection (QoD ≥ 70%), incluant plusieurs vulnérabilités critiques telles que :
 
